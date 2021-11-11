@@ -1,0 +1,11 @@
+.rating {
+  display: flex;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  gap: 4px;
+}
+
+.star-color {
+  color: #ffa41c;
+  border: #ffa41c;
+}
